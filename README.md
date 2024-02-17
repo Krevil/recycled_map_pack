@@ -1,3 +1,3 @@
 # The Recycled Map Pack
 
-A modded map pack for Halo 3 made using existing level geometry and objects.
+A modded map pack for Halo 3 made using base game level geometry and objects.
